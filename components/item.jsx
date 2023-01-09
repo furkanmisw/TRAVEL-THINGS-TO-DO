@@ -39,7 +39,7 @@ const Container = styled.li`
   }
   overflow: hidden;
   border-radius: 1rem;
-  margin: 4rem 0px;
+  margin: 3rem 0px;
   a {
     height: 300px;
     width: 100%;

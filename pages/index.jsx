@@ -27,6 +27,7 @@ export const Container = styled.div`
   width: 100%;
   .title {
     margin: 2rem 0px;
+    text-transform: capitalize;
   }
 `;
 
