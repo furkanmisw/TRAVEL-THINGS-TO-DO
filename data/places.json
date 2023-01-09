@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "city": "Hong Kong",
+    "title": "Causeway Bay",
+    "image": "edf2bf65-a60c-4439-af55-dab3877cd306.webp",
+    "about": "If it’s your first time in Hong Kong, head to the neighbourhood of shopping streets around Causeway Bay, where you can immerse yourself in Hong Kong’s iconic street scenes – busy, bustling, and always on the go.\n\nThe streets around Jardine’s Crescent are packed throughout the day and night – they're also popular spots for acquainting yourself with the city. Get a first glimpse of the trams rattling along Hennessy Road, with huge flashing billboards, street hawkers, and flagship designer stores catching your attention at every turn.",
+    "location": "Causeway Bay, Hong Kong"
+  },
+  {
+    "id": 2,
+    "city": "Hong Kong",
+    "title": "The Peak",
+    "image": "f30da54f-1fae-4033-8adb-e24050c4f3e2.webp",
+    "about": "The Peak Hong Kong not only has tremendous views out over the harbour and neighbouring islands, but it’s also a foodie destination and a place of historical interest.\n\nThis Hong Kong attraction is very popular among first-time visitors. You can either take the tram or hike your way to the summit, which stands at 552 metres above sea level. Don't forget your camera – The Peak Hong Kong boasts panoramic views of Hong Kong and the South China Sea.",
+    "location": "Hong Kong Island, Hong Kong"
+  },
+  {
+    "id": 3,
+    "city": "Hong Kong",
+    "title": "Hong Kong Disneyland",
+    "image": "ad0141fc-0d93-4b93-8bfb-a531f382a5d9.webp",
+    "about": "Hong Kong Disneyland is one of the largest theme parks in Hong Kong. This is where you’ll find your favourite Disney characters parading the streets of the expansive theme park, as well as a wide range of fun rides for all ages.\n\nThere’s something for just about everyone at this world-renowned attraction, from romantic boat rides and live shows to indoor rollercoasters and space adventures.",
+    "location": "Lantau Island, Hong Kong"
+  },
+  {
+    "id": 4,
+    "city": "Hong Kong",
+    "title": "Tian Tan Buddha (Big Buddha)",
+    "image": "e48a8f85-69fb-4c33-88cd-6029c5ee149e.webp",
+    "about": "Tian Tan Buddha, one of the world’s tallest statues of a seated Buddha, is a sight to behold. Located in Po Lin Monastery on Lantau Island, the structure is 34 metres in height and sits on top of a 3-level base platform.\n\nIt was built to symbolise the harmonious relationship between man and nature, people and religion. Po Lin Monastery has many other interesting things to see, including a lotus pond, several prayer halls, a teahouse, a tea plantation, an orchid garden, and many restaurants.",
+    "location": "Po Lin Monastery, Ngong Ping Plateau, Tung Chung Town, Lantau Island, Hong Kong"
+  },
+  {
+    "id": 5,
+    "city": "Hong Kong",
+    "title": "Stanley Market and Murray House",
+    "image": "e6cd4a13-34cf-4082-ac8e-9bd263e46054.webp",
+    "about": "Stanley Market and Murray House are situated in the town of Stanley next to Chung Hom Kong and Repulse Bay, on the southern coast of Hong Kong. The market is made up of winding lanes stocking an assortment of gifts, clothes, antiques, and watches.\n\nLess than 5 minutes away from this open-air marketplace is Murray House, a restored colonial building that was relocated from Central. It has several restaurants on the 1st floor, all of which overlook Blake Pier and the South China Sea.",
+    "location": "Stanley Municipal Services Building, 6 Stanley Market Rd, Stanley, Hong Kong"
+  },
+  {
+    "id": 6,
+    "city": "Hong Kong",
+    "title": "Temple Street Night Market",
+    "image": "ba9d32f9-32ec-4e65-8754-c96f059fe4b2.webp",
+    "about": "Temple Street Night Market is a busy and bustling market that will boggle the mind with its diversity. It usually opens at 5pm, but really gets going past dark, when it's a barrage of brightly lit stalls selling cheap souvenirs, fashion, and electronics. Most items are sourced directly from factories in mainland China.\n\nYou'll also find many fortune-tellers and herbalists, as well as the occasional free open-air Cantonese opera. Snacks stalls and restaurants surround Temple Street Night Market, which adds to its already colourful and noisy spectacle.",
+    "location": "Temple Street, Jordan, Hong Kong"
+  },
+  {
+    "id": 7,
+    "city": "Hong Kong",
+    "title": "Lan Kwai Fong and SoHo",
+    "image": "7b967e9d-68d0-43c2-94d0-d7d68ea88706.webp",
+    "about": "Lan Kwai Fong and Soho are usually buzzing with fashionable locals and trendy tourists seeking a cool place to hang out and enjoy a few drinks once the sun goes down. These areas are arguably Hong Kong’s busiest nightlife districts.\n\nLan Kwai Fong is a cobble-stoned maze of restaurants, bars and nightclubs in the middle of Central in Hong Kong. SoHo caters mostly Hong Kong’s elites, thanks to its extensive range of high-end multicultural restaurants and chic bars. ",
+    "location": "Central, Hong Kong Island, Hong Kong"
+  },
+  {
+    "id": 8,
+    "city": "Hong Kong",
+    "title": "Star Ferry Hong Kong",
+    "image": "7100d443-b987-4115-9667-644de0faed22.webp",
+    "about": "Star Ferry Hong Kong is one of the best spots for a sense of the city's living history. Founded in 1880, it's also a symbol of the city and often featured in local films and TV shows.\n\nThere are 2 ferry crossings across the bay, though the most popular route is from Central Ferry Pier to Kowloon. Fares for Star Ferry start from HK$2.70 (HK$3.70 on weekends) per adult and HK$1.60 (HK$2.20 on weekends) per child between 3 and 12 years old. Ferries leave every 10 to 15 minutes, depending on the time of day.",
+    "location": "Tsim Sha Tsui, Hong Kong"
+  },
+  {
+    "id": 9,
+    "city": "Hong Kong",
+    "title": "Hong Kong rooftop bars",
+    "image": "0f53e41b-0460-4333-9dad-033aaaaf9a29.webp",
+    "about": "Lounging at a rooftop bar in Hong Kong is definitely one of the best ways to spend your evenings, soaking up the incredible cityscape while sipping on a cocktail in the cooling breeze. What’s more, there are rooftop bars and restaurants to enjoy spread out all over the city – on both sides of Victoria Harbour – so you are never that far away from getting a privileged vantage point over Hong Kong."
+  },
+  {
+    "id": 10,
+    "city": "Hong Kong",
+    "title": "Avenue of Stars and Symphony of Lights Hong Kong",
+    "image": "69d5792b-8da8-4e66-881d-626dc51da5bc.webp",
+    "about": "The Avenue of Stars is a promenade overlooking Victoria Bay in Kowloon. It’s just a short walk from the Tsim Sha Tsui MTR station and is popular for soaking up the sweeping scene of Hong Kong Island. You’ll also see over 100 stars dotting the walkway, which honours legends of the Hong Kong film industry, much like the Hollywood Walk of Fame.\n\nThis waterfront promenade also happens to be one of the best spots for watching the famous light show called the Symphony of Lights. The nightly laser show starts at 8pm and is set against one of the most incredible cityscapes in the world. "
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Hong Kong",
+    "visitor": "29,262,700",
+    "image": "shutterstock-1170964348.jpg",
+    "about": "Topping the list is the city of Hong Kong, which had a recorded 29,262,700 visitors in 2018. Hong Kong is a booming city economically, and is an important centre for international dealings. It is also very popular with tourists, who come to see the bright, lively city that has such a diverse culture. Hong Kong has everything from uber modern skyscrapers and buildings, to a dramatic harbour front and traditionally attractions. World-class shopping is one of the biggest draws to the city, but impressive cuisine is also abundant, and there are often local festivals in the area as well.Ocean Park, and Hong Kong Disneyland draw in millions of fun seekers, while attractions like the Tian Tan Buddha, Wong Tai Sin Temple and the Ten Thousand Buddhas Monastery are wonderful sights for those looking for a more peaceful experience. Hong Kong’s mixture of old nad new, modern and traditional, makes it a huge draw for all types of tourists, making it the most visited city by foreigners in the world."
+  },
+  {
+    "id": 2,
+    "title": "Bangkok",
+    "visitor": "24,177,500",
+    "image": "shutterstock-1517075027.jpg",
+    "about": "Bangkok is the capital of Thailand, and had 24,177,500 visitors in 2018. Bangkok takes the number two spot of this list, as this highly populated city is an extremely popular travel destination for visitors from all over the world. This busy, bustling and often hectic city has an extremely lively nightlife, from its red Light District, to a variety of bars and clubs, to thriving night markets. The cost of travelling here is also lower than most other countries, so tourists love feeling they can get a lot for their money. Aside from the lights and colours of the night, Bangkok has an abundance of historical buildings that draw many visitors. The beautiful Grand Palace, and various wat temples such as Wat Pho, Wat Arun, and Wat Traimit (the Temple of the Golden Buddha) are stunning displays of golden temples and buddhist culture. Similarly, the National Museum & Wang Na Palace are both beautiful and a great way to learn more about this thriving eclectic city."
+  },
+  {
+    "id": 3,
+    "title": "London",
+    "visitor": "19,233,000",
+    "image": "shutterstock-156231818.jpg",
+    "about": "London is one of the world’s biggest and most prominent cities. As the capital of England and the United Kingdom it is the center for business, finance and culture. London has a huge range of attractions for visitors, as well as a strong draw for those travelling for business purposes. Travellers for pleasure can enjoy everything from castles in the Tower of London, Buckingham Palace - a huge draw for anyone fascinated with the monarchy - Victoria and Albert Museum, Saint Paul’s Cathedral, and the more recently built London Eye. The city boasts just about everything, from world class food and drink, to luxury hotels, award winning theater performances in the West End, the hip and trendy areas of Shoreditch and various shopping opportunities and markets, and the Thames River. As the saying goes, its impossible to become bored in London."
+  },
+  {
+    "id": 4,
+    "title": "Macau",
+    "visitor": "18,931,400",
+    "image": "shutterstock-1280433571.jpg",
+    "about": "China’s Macau takes the number four spot on this list, having some 18,931,400 visitors in 2018. Macau sits on the south coast of China, separated from neighbour Hong Kong by the Pearl River Delta. It is often referred to affectionately as the “Las Vegas of Asia”,  mainly due to its abundance of casinos and large malls. Additionally, luxury resorts and the Macau Tower showcase the city’s more modern side, while the Ruins of St. Paul’s, Monte Forte and Senato Square are remnants that show Macau’s former Portuguese influence and the A-Ma temple dating back to 1488, shows of ancient Macau culture."
+  },
+  {
+    "id": 5,
+    "title": "Singapore",
+    "visitor": "18,551,200",
+    "image": "shutterstock-1251373093.jpg",
+    "about": "18,551,200 people visited Singapore in 2018, making it the fifth most visited city in the world by international travellers. This island city-state is the largest port in Southeast Asia, and continues to be an extremely important site for business and trade. Impressive skyscrapers and towering buildings fill the skyline, while on the other hand the traditions and history of this booming city can be seen in various century-old temples, and the bustling hawker centres throughout Singapore. Added to this are lush urban parks and green spaces, and Singapore stands out as a stunning city of old charm and cutting edge modernity all at once."
+  },
+  {
+    "id": 6,
+    "title": "Paris",
+    "visitor": "17,560,200",
+    "image": "shutterstock-1488474965.jpg",
+    "about": "Paris, France marks number six on the list, and had a recorded visitor number of 17,560,200 in 2018. Paris is a bustling multicultural city that is at once a modern hub, and full of a long and rich history. Tourists are drawn to the iconic Eiffel tower, Notre Dame, and the Louvre art gallery. Similarly, shopping and high fashion are big here, and Paris even hosts a highly popular fashion week in the heart of the city."
+  },
+  {
+    "id": 7,
+    "title": "Dubai",
+    "visitor": "15,920,700",
+    "image": "shutterstock-420775813.jpg",
+    "about": "Dubai is an almost otherworldly city of affluence and impressive architecture located in the arid desert country of the United Arab Emirates. Dubai had 15,920,700 visitors in 2018 who came for business or pleasure. The city has grown quickly, expanding into a city of luxury from the palm resorts to the opulent malls and racetracks. The towering Burj Khalifa stands over it all, the tallest freestanding structure in the world."
+  },
+  {
+    "id": 8,
+    "title": "New York City",
+    "visitor": "13,600,000",
+    "image": "shutterstock-1120574279.jpg",
+    "about": "Though by far the most visited city within the United States, New York City ranks eightth on the world list with 13,600,000 visitors in 2018. Though not the official capital of the country, it has become so colloquially speaking, and is an icon of American culture and economy. Many foreign visitors may come for business meetings, however tourism is also extremely high in New York, with visitors seeking out the Statue of Liberty, Empire State Building, or shows of Broadway."
+  },
+  {
+    "id": 9,
+    "title": "Kuala Lumpur",
+    "visitor": "13,434,300",
+    "image": "shutterstock-436414354.jpg",
+    "about": "Kuala Lumpur, the capital of Malaysia, had 13,434,300 visitors in 2018. As the capital, it is the cultural, financial and economic center of the country, and is also a multicultural hub. The city includes Tamil, Chinese, Malay, and indigenous people, culture and cuisine, and is growing in its diversity. Kuala Lumpur is the most industrialised and has the fastest growing economy in Malaysia. It is also considered an alpha world city, or global center, reinforcing its economic importance. Because of this, it is likely that a majority of the visitors to the city may be for business or business related trips."
+  },
+  {
+    "id": 10,
+    "title": "Istanbul",
+    "visitor": "13,433,000",
+    "image": "shutterstock-1222678000.jpg",
+    "about": "Istanbul is the tenth highest ranking city in terms of number of international visitors. In 2018, a documented 13,433,000 people travelled to Istanbul for either business or pleasure. Its position as a major city in Turkey that borders both Europe and Asia makes it an extremely appealing place for anyone travelling across either continent, or conducting international business. This also meant it was an important city throughout history, and because of that Istanbul has a rich historical background, including many old buildings and ruins from the Roman Empire, Byzantine Empire, and early Christian movement."
+  }
+]
