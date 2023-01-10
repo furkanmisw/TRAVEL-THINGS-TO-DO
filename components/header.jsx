@@ -14,7 +14,7 @@ function Header() {
             <Link href={"/"}>Home</Link>
           </li>
           <li>
-            <Link href={"/"} target="_blank">
+            <Link href={"https://github.com/simsekfurkann07"} target="_blank">
               <img src="/icons/github-mark-white.png" alt="github" />
             </Link>
           </li>
