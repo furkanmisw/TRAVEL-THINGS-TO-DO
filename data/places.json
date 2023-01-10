@@ -72,9 +72,191 @@
   },
   {
     "id": 10,
-    "city": "Hong Kong",
+    "city": "Bangkok",
     "title": "Avenue of Stars and Symphony of Lights Hong Kong",
     "image": "69d5792b-8da8-4e66-881d-626dc51da5bc.webp",
     "about": "The Avenue of Stars is a promenade overlooking Victoria Bay in Kowloon. It’s just a short walk from the Tsim Sha Tsui MTR station and is popular for soaking up the sweeping scene of Hong Kong Island. You’ll also see over 100 stars dotting the walkway, which honours legends of the Hong Kong film industry, much like the Hollywood Walk of Fame.\n\nThis waterfront promenade also happens to be one of the best spots for watching the famous light show called the Symphony of Lights. The nightly laser show starts at 8pm and is set against one of the most incredible cityscapes in the world. "
+  },
+  {
+    "id": 11,
+    "city": "Bangkok",
+    "title": "Visit Wat Pho To See The Reclining Buddha",
+    "image": "ccimage-shutterstock_2429432.jpg",
+    "about": "A visit to Wat Pho is a must for any traveler to Bangkok, it is the home to the Reclining Buddha which stands at fifteen metres tall and forty six metres long, the feet alone are measured at over five meters. The whole statue is covered in gold leaf and looks incredible when you get up close.\n\nInside the temple there are 108 bowls and on the way in to the temple you can buy coins for the bowls. The history behind this is that Buddha completed 108 positive actions on his way to becoming perfect. Whilst you are at the temple you can also stop for a while to receive a traditional Thai Massage"
+  },
+  {
+    "id": 12,
+    "city": "Bangkok",
+    "title": "Visit the Grand Palace",
+    "image": "ccimage-shutterstock_192689672.jpg",
+    "about": "Of all the places to visit in Bangkok the Grand Palace is the most famous attraction there is. You simply cannot move onto another city until you have taken the time to visit here.The palace at one time was the king’s home as well as the place where the government of Thailand carried out their work. A trip to the palace can take many hours as there are over 214,000 sq. meters to cover. Be aware of potential scams when outside the palace and only pay the entrance fee when you are actually going in.",
+    "location": "Grand Palace"
+  },
+  {
+    "id": 13,
+    "city": "Hong Kong",
+    "title": "Ride the Sky Train",
+    "image": "ccimage-shutterstock_197312264.jpg",
+    "about": "There is only one way to get around Bangkok at any speed whilst keeping cool and that is to jump aboard one of the sky trains. With air conditioned carriages there is no better way to get around.In most instances you are high above the traffic below giving you a view of the city but also the train takes the most direct route. With nearly every part of Bangkok you would want to visit having a train station, travel could not be simpler."
+  },
+  {
+    "id": 14,
+    "city": "Hong Kong",
+    "title": "Take a trip around Chatuchak Market.",
+    "image": "ccimage-shutterstock_391516453.jpg",
+    "about": "If you like shopping you need to check this place out. If you hate shopping you need to give this place a wide berth. With over 8000 stalls covering 27 acres of space this is one of the largest markets in the world.Open every Saturday and Sunday it attracts nearly 200,000 visitors a day, you will find everything you could ever imagine for sale here and mostly at local prices rather than tourist prices, it is certainly worth picking up a map before you go to avoid you being lost in the market for hours."
+  },
+  {
+    "id": 15,
+    "city": "Bangkok",
+    "title": "Take a Boat Trip along the Chao Phraya River",
+    "image": "ccimage-shutterstock_536683621.jpg",
+    "about": "Some people refer to Bangkok as the ‘Venice of the East’ this is due to the Chai Phraya River flowing through Bangkok and all of the little canals that feed off of it. The river is the lifeblood of Bangkok, even today 50,000 people still go to work on one of the many ferries that go up and down.Taking a boat trip down the river is fascinating as you will see high rise condominiums and fancy hotels in one part whilst you will see wooden shacks and children playing in the water in other parts. Feel free to get on and off at any of the stops the ferries make to further explore the city.",
+    "location": "Phraya River"
+  },
+  {
+    "id": 16,
+    "city": "London",
+    "title": "Hyde Park",
+    "image": "ccimage-shutterstock_494643706.jpg",
+    "about": "Hyde Park is possibly the most famous park in London, and it is one of the largest. The park has historical significance, having hosted a number of demonstrations and protests including protests by the Suffragettes.The park’s famous Speaker’s Corner is still occupied by debates, protests, and performance artists every week. The park is home to several memorial features, as well as two bodies of water, the most famous being the Serpentine. Here you can go paddle-boating, see a number of swans, and take in a breath of fresh air in the center of the city. A must-visit."
+  },
+  {
+    "id": 17,
+    "city": "London",
+    "title": "Westminster",
+    "image": "ccimage-shutterstock_627361376.jpg",
+    "about": "Westminster is considered the political hub of London and is home to the Houses of Parliament and the world-famous Big Ben. Big Ben is the name of the bell housed within the iconic clock tower, and it still chimes every hour.You can also find Westminster Abbey here, which is open to the public most days. Whilst visiting these landmarks, be sure to rest your feet in Parliament Square which features statues of important political individuals including Nelson Mandela and Winston Churchill."
+  },
+  {
+    "id": 18,
+    "city": "London",
+    "title": "Camden",
+    "image": "ccimage-shutterstock_200888861.jpg",
+    "about": "Camden is a well-known cultural neighborhood in north London. Known for its alternative culture, the crowds here are filled with goths, punks, rockabillies and tourists alike. Camden has a vibrant body mod community and you will find a number of piercing and tattoo shops in this part of town.Camden Market is eclectic and diverse, featuring street food from international cuisines, and lots of stalls selling trinkets and unique artwork to take home. Rummage through vintage clothing racks, find a used book to take on your travels, or visit one of the city’s best vegan bakeries at Cookies And Scream.After your shopping spree, stroll down to Camden Lock to relax by Regent’s Canal or walk along the water all the way to King’s Cross."
+  },
+  {
+    "id": 19,
+    "city": "London",
+    "title": "London Eye",
+    "image": "ccimage-shutterstock_433759954.jpg",
+    "about": "A trip to London isn’t complete without a visit to the iconic London Eye. Originally constructed to celebrate the millennium, the Eye is a giant ferris wheel offering gorgeous views across the city. At night, the wheel is lit up in seasonal colors and is the centerpiece of London’s annual New Year’s fireworks display.You can share one of the spacious pods with other keen visitors, or splurge on a private pod for you and someone special. Team your visit to the Eye with a trip to the adjacent London Aquarium to see aquatic creatures from around the world, including jellyfish, seahorses and crocodiles."
+  },
+  {
+    "id": 20,
+    "city": "London",
+    "title": "Soho",
+    "image": "ccimage-shutterstock_156709232.jpg",
+    "about": "Soho has long been known as the base of London’s sex industry. The area is now the most popular nightlife spot although there are still some sex shops dotted here and there, giving Soho a delightfully risqué vibe. Soho is often considered the center of the city’s LGBTQ* community with plenty of gay and lesbian bars to check out after the sun goes down.In addition to bars and clubs, Soho has a number of theaters, jazz bars and restaurants to explore, making it a cultural hotspot. Its close proximity to Leicester Square means it’s also a great place to go for a few drinks after a play or stage show.During the day, Soho loses none of its charm. Here you’ll find lots of music shops, small cafes and quain"
+  },
+  {
+    "id": 21,
+    "city": "Macau",
+    "title": "Go to see Ruins of St. Paul’s Cathedral",
+    "image": "1617707592_ICsqXGlgPx3NqIJA.jpeg.webp",
+    "about": "Built in 1637-1640, St. Paul’s Cathedral used to be an architectural marvel built in traditional Baroque style. This famous 17th Century Portuguese church was dedicated to Saint Paul, the Apostle. You can see the ruins of the catholic church situated at the religious complex of Santo Antonio.The glorious remains of this magnificent church have been restored today by the Macanese government. During your vacation, visiting this archaeological marvel with your family and friends is one of the most insightful things to do in Macau.",
+    "location": "Rua de Sao Paulo, Macau China"
+  },
+  {
+    "id": 22,
+    "city": "Macau",
+    "title": "Strolling Through Taipa Village",
+    "image": "1617707700_M1370086_2.jpg.jpg",
+    "about": "While holidaying with your friends and family, one of the best things to do in Macau is visiting the quaint village of Taipa, situated very near to the main casino strip. If you want an authentic experience of the local Macanese culture, then this is one of the best places to visit.There are several galleries, museums, historic architecture, local shops and attractions for you to explore. If you want to sample local cuisine, hear local stories and mingle with the residents, then you can visit one of the many restaurants in the village.",
+    "location": "Macau, China."
+  },
+  {
+    "id": 23,
+    "city": "Macau",
+    "title": "Pay a Visit to A-Ma Temple",
+    "image": "1617707818_istock-179093542.jpg.jpg",
+    "about": "A-Ma Temple is a famous tourist destination in Macau. Built in 1488, this temple is dedicated to the sea-goddess M?z?, worshipped throughout the South of China. Visiting this historical temple, located in São Lourenço with your family and friends, is one of the essential things to do in Macau during your vacation.The most striking feature of the temple is its intricate architecture. The six main parts of the temple are the Memorial Arch, the Prayer Hall, the Zhengjiao Chanlin - Buddhist Pavilion, the Hall of Guanyin, the Hall of Benevolence and the Gate Pavilion.",
+    "location": "Guangdong Province, Macau, China."
+  },
+  {
+    "id": 24,
+    "city": "Macau",
+    "title": "Watching The House of Dancing Water",
+    "about": "If you are planning to spend an entertaining evening with your friends and family in Macau, then you can make your way to The House of Dancing Water Show. Witnessing this mesmerising show is one of the best things to do in Macau.The spectacular show is conducted by artists who perform mind-blowing acrobatics, diving from an elevation of 17 metres in a pool of 3.7 million gallons of water with 18m joint jets",
+    "image": "1617708423_dancing_w_mah9wp.jpg.webp",
+    "location": "City of Dreams, Estr. do Istmo, Macau"
+  },
+  {
+    "id": 25,
+    "city": "Macau",
+    "title": "Admiring the View At The Hac Sa Beach",
+    "about": "Your vacation in Macau is incomplete without a visit to the bewitching Hac Sa Beach. Spending your leisurely hours strolling through the pristine Hac Sa Beach is one of the most relaxing things to do in Macau. This beach is known for its unique black and yellow sand.The literal meaning of the name Hac Sa is ‘black sand’. The colour is created by the minerals which are washed ashore. The beach is fringed with shops and natural wonders that you can explore at your leisure. It is also one of the best places to catch a stunning sunset.",
+    "image": "1617708142_6b0907c5555b71d88cf68f0c50c5241d.jpg.webp",
+    "location": "Coloane, Macau, China."
+  },
+  {
+    "id": 26,
+    "city": "Singapore",
+    "title": "Gardens By the Bay",
+    "image": "Gardens-by-the-Bay__2018_Gardens-by-the-Bay.jpg",
+    "about": "With more than 9,000 works, National Gallery Singapore owns the largest public collection of modern art in Southeast Asia. It's spread across two beautiful national monuments: City Hall and the country’s former Supreme Court. Some visitors spend half a day (or more) wandering the museum’s many galleries. If you're looking to avoid lines, consider going on a weekday and buying your tickets in advance online."
+  },
+  {
+    "id": 27,
+    "city": "Singapore",
+    "title": "National Gallery Singapore",
+    "image": "08-museums-national-gallery-singapore-cr-courtesy.jpg",
+    "about": "This is a hugely popular tourist attraction in Singapore, and rightly so. The breadth of plants and the creative ways in which they're displayed is awe-inspiring. In one part of the conservatory, the Cloud Forest mimics the cool-moist ecology of the tropical highlands. It has a treetop walk and an oft-photographed indoor 114-foot waterfall."
+  },
+  {
+    "id": 28,
+    "city": "Singapore",
+    "title": "Kampong Glam",
+    "image": "00-singapore-kampongglam-2019-GettyImages-1145769125.jpg",
+    "about": "Are you a hipster? Or a devout Muslim? Do you like unconventional modern art or traditional Arab crafts? Do you just want that Instagram snap or are you interested in learning more about this historic district, from its red-light leanings to its religious importance? Or maybe you just want a slice of the delicious kaya swiss roll from the famous Rich & Good Cake Shop? If you answered yes to any of these things, this delightfully eclectic enclave is for you. Singapore's Muslim quarter dates back to the 1800s, but the area has grown and changed, blending the religious and historical with a modern take on the city-state."
+  },
+  {
+    "id": 29,
+    "city": "Singapore",
+    "title": "Jewel Changi Airport",
+    "image": "2ACBRM4.jpg",
+    "about": "It might seem odd to tell travelers to hang out in an airport, but Jewel Changi is no ordinary airport (it's a fixture at the top of our Readers' Choice Awards best airport list). The transportation hub is also a nature-themed shopping, dining, and entertainment extravaganza designed by architect Moshe Safdie. The project's highlights include the Rain Vortex, a seven-story-tall indoor waterfall; an indoor forest with suspended walkways; and nearly 300 stores. This is a game-changer for travelers on layovers. It's so popular (and so worth it) that 20 airlines will let you check in a full 24 hours in advance just to maximize your time inside."
+  },
+  {
+    "id": 30,
+    "city": "Singapore",
+    "title": "The Intan",
+    "image": "The-Intan___2018__DSC0029.jpg",
+    "about": "The Intan is a private home that houses one of Singapore’s most impressive collections of Peranakan artifacts. Owner Alvin Yapp has spent 30-plus years collecting 1,500 objects from Peranakan culture, most notably kasut manek (ornate beaded slippers worn by Straits Chinese women) and enamel tiffin carriers hand-painted in delicate floral patterns. Yapp's post-war home is a labor of love, and it shows in the meticulous way that he has arranged every square inch of it. Visits are strictly by appointment only."
+  },
+  {
+    "id": 31,
+    "city": "Paris",
+    "title": "Eiffel Tower",
+    "image": "3f.jpg",
+    "about": "The Eiffel Tower isn't just a symbol of Paris but a symbol for all of France. Erected by Gustave Eiffel to commemorate the centennial of the French Revolution in 1889, the 1,050-foot (320-meter) tower once held the title of the world's tallest structure. Despite having been dwarfed by Dubai's Burj Khalifa and The Shard in London, the Eiffel Tower remains one of the most recognizable landmarks on the planet. View the architectural icon from afar, or stop in at the three observation levels for stellar city views."
+  },
+  {
+    "id": 32,
+    "city": "Paris",
+    "title": "Louvre",
+    "image": "d3.jpg",
+    "about": "Primarily associated with the steady gaze of Leonardo Da Vinci's famous Mona Lisa, Paris' Louvre museum is home to a 35,000-strong collection of paintings and sculptures considered one of the greatest in the world. The contemporary glass Louvre Pyramid heralds the museum's entrance, which millions of tourists flock to every year to feast their eyes on masterpieces that span from antiquity to the 20th century."
+  },
+  {
+    "id": 33,
+    "city": "Paris",
+    "title": "Notre Dame Cathedral",
+    "image": "09.jpg",
+    "about": "Second only to the Eiffel Tower, Notre Dame Cathedral (Cathedrale de Notre Dame de Paris) is one of Paris' most iconic attractions, a marvel of medieval architecture that was immortalized in Victor Hugo's classic novel The Hunchback of Notre Dame. Today, the Gothic grandeur and stained-glass windows of the UNESCO World Heritage site continue to reign supreme from Ile de la Cite, an island in the middle of the Seine River."
+  },
+  {
+    "id": 34,
+    "city": "Paris",
+    "title": "River Seine",
+    "image": "fd.jpg",
+    "about": "The lifeblood of Paris, the River Seine acts as a dividing line between Paris’ historically sophisticated and bohemian halves; it provides transportation via riverboat and plenty of opportunity for romantic strolls; and its riverbanks are a UNESCO World Heritage Site lined with the city’s top landmarks, including the Eiffel Tower, Notre-Dame Cathedral, Musée d’Orsay, Jardin des Tuileries, and the Louvre."
+  },
+  {
+    "id": 35,
+    "city": "Paris",
+    "title": "Orsay Museum (Musée d'Orsay)",
+    "image": "c9.jpg",
+    "about": "Rivaling the Louvre as Paris' favorite art museum, the Orsay Museum (Musée d'Orsay) is known for its impressionist, post-impressionist, and art nouveau works from 1848 to 1914. Equally impressive as what’s inside the museum is its exterior: a former Beaux-Arts railway station with an enviable location on the banks of the Seine River. Both architecture and art buffs will want this museum on their Parisian itineraries."
   }
 ]
